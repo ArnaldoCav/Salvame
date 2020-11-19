@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "889008754627",
+    "firebase_url": "https://salvame-2ab55.firebaseio.com",
+    "project_id": "salvame-2ab55",
+    "storage_bucket": "salvame-2ab55.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889008754627:android:1a7da554a21db72c603776",
+        "android_client_info": {
+          "package_name": "com.pia.salvame"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889008754627-imno4gmusm1a0gmiln1talcivua140p8.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAVk_54w31OZNaLLB8UwrqQzg8h-kZqtuU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889008754627-imno4gmusm1a0gmiln1talcivua140p8.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
